@@ -56,6 +56,7 @@ I further explored data using python to check if all our cleaning process was we
 
 14. Dystopia Residual:
  - This measure represents the gap between a hypothetical dystopian society and the actual scores of countries. Higher dystopia residuals indicate better performance than expected, highlighting countries that exceed in factors contributing to happiness beyond economic and social metrics.
+
 Dive deep into the nuances of global happiness with the interactive dashboard! Interact with the report [here](https://public.tableau.com/app/profile/korede.joshua/viz/MyWorldHappinessData_16812011471270/Dashboard1?publish=yes1.)
 
 ## World Happiness Prediction
